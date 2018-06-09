@@ -1,0 +1,8 @@
+public class ClassToGit.java{
+     public sttic void main(String[] args){
+     
+     SYstem.out.println("hello worls");
+
+
+     }
+}
