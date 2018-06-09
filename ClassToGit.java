@@ -35,7 +35,7 @@ System.out.println("               8888888888888888888888888               ");
 System.out.println("                  8888888888888888888                  ");
 System.out.println("                      88888888888                      ");
 System.out.println();
-
+System.out.println();
 
      }
 }
