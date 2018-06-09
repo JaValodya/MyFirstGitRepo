@@ -1,3 +1,4 @@
 this is the first line
 this is second line of text to chak hoe git works
-line three is added to practise
+
+this is another line with previous line delition
